@@ -2,6 +2,8 @@
 
 
 By Aziz Alreshidi
+Email : swe2010-m-s@hotmail.com
+
 
 Abstract
 Explore and compare machine learning techniques and tools used to predict liver disease for patients in India utilizing a set of health data measurements.
@@ -29,10 +31,7 @@ Number and description of attributes in the dataset
 
 ![1](https://user-images.githubusercontent.com/29342294/49695864-dd218e80-fb66-11e8-826d-2bceb8e07f63.png)
 
-Problems / Questions
-We will produce a variety of models using different techniques and methods (described above) and compare their quality to determine how well they predict liver disease in patients. For some of the core methods, we plan to compare and contrast I used Python tools to determine if different tools have an impact on model results or quality.
-
-In addition to these two core areas of investigation, we may also look at the impact of missing data on our models using Convolutional Neural Networks (CNN) and explore the possibility that specific age or gender subpopulations may respond more favorably to different models or techniques.
+Using Convolutional Neural Networks (CNN)
 
 
 
