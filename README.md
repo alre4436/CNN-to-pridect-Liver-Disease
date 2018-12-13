@@ -30,19 +30,11 @@ Number and description of attributes in the dataset
 ![1](https://user-images.githubusercontent.com/29342294/49695864-dd218e80-fb66-11e8-826d-2bceb8e07f63.png)
 
 Problems / Questions
-We will produce a variety of models using different techniques and methods (described above) and compare their quality to determine how well they predict liver disease in patients. For some of the core methods, we plan to compare and contrast different tools (MATLAB, R, Python) to determine if different tools have an impact on model results or quality.
+We will produce a variety of models using different techniques and methods (described above) and compare their quality to determine how well they predict liver disease in patients. For some of the core methods, we plan to compare and contrast I used Python tools to determine if different tools have an impact on model results or quality.
 
 In addition to these two core areas of investigation, we may also look at the impact of missing data on our models using Convolutional Neural Networks (CNN) and explore the possibility that specific age or gender subpopulations may respond more favorably to different models or techniques.
 
-Questions
-Which models offer the optimal balance of simplicity and accuracy?
-Are model comparison metrics valid across different techniques?
-What is the best method to compare the quality of the models?  
-Are there significant differences in models created by MATLAB, R and Python?
-How are our models affected by modifying discrete numerical data to categorical data?
-Are different models needed to more precisely predict liver disease in different genders?
-Are different models needed to more precisely predict liver disease in different age ranges?
-How are our models affected by missing data elements from each attribute?
+
 
 See Corrolation between Features
 ![1](https://user-images.githubusercontent.com/29342294/49695975-5ff71900-fb68-11e8-97bd-7f1e9741df17.png)
