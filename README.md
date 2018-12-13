@@ -33,6 +33,10 @@ Number and description of attributes in the dataset
 
 Using Convolutional Neural Networks (CNN)
 
+Here is the CNN i put the input_diminetion as 11 becouse we have 11 features.
+
+![1](https://user-images.githubusercontent.com/29342294/49968099-71368180-feea-11e8-9a44-00bbac7846f1.png)
+
 
 
 See Corrolation between Features
